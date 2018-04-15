@@ -38,6 +38,14 @@ Fisher was able to develop a linear discriminant model to distinguish each of th
 Min  Max   Mean    SD   Class Correlation
 Class Distribution: 33.3% for each of 3 classes.
 
+SD: To calculate the standard deviation of those numbers:
+Work out the Mean (the simple average of the numbers)
+Then for each number: subtract the Mean and square the result.
+Then work out the mean of those squared differences.
+Take the square root of that and we are done!
+
+Class Correlation (https://stats.stackexchange.com/questions/57776/what-is-class-correlation)
+
 ### 3. Conclusions
 
 
@@ -47,4 +55,5 @@ http://slideplayer.com/slide/4414578/
 http://web.as.uky.edu/statistics/users/pbreheny/764-f11/notes/9-20.pdf
 http://scikit-learn.org/stable/_images/sphx_glr_plot_pca_vs_lda_001.png
 http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
+http://archive.ics.uci.edu/ml/machine-learning-databases/iris/
 
