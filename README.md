@@ -20,7 +20,7 @@ Fisher introduced the Iris Flower Data Set in his 1936 paper.  The data set cons
 2. Iris Virginica
 3. Iris Versicolor
 
-![Photo of the Iris in the data set](Iris.jpeg)
+![Photo of the Iris in the data set](Iris.jpg)
 
 Fifty samples of each of the three species were measured.  Each sample was measured in centimetres and recorded into four categories:
 1. Length of the Sepals
