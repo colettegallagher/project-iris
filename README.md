@@ -13,7 +13,7 @@ This project analyses Fisher's Iris Data Set using different statistical methods
 ### 1. History
 Sir Ronald Aylmer Fisher (1890-1962) was a British statistican and geneticist.
 
-![A picture of Ronald Fisher](fisher.jpeg)
+![A picture of Ronald Fisher](fisher.jpg)
 
 ### 2. Statistics Used
 
