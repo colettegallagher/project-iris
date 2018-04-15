@@ -5,7 +5,7 @@ Project Researching Fisher's Irish Data Set
 This project analyses Fisher's Iris Data Set using different statistical methods.
 
 ## Contents
-1. History of Fisher's Iris Data Set
+1. History of Fisher's Iris Flower Data Set
 2. Statistics Used
 3. Conclusions
 4. References
@@ -15,6 +15,28 @@ Sir Ronald Aylmer Fisher (1890-1962) was a British statistican and geneticist.
 
 ![A picture of Ronald Fisher](fisher.jpg)
 
+Fisher introduced the Iris Flower Data Set in his 1936 paper.  The data set consists of three species of Iris:
+1. Iris Setosa
+2. Iris Virginica
+3. Iris Versicolor
+
+
+
+Fifty samples of each of the three species were measured.  Each sample was measured in centimetres and recorded into four categories:
+1. Length of the Sepals
+2. Width of the Sepals
+3. Length of the Petals
+4. Width of the Petals
+
+Fisher was able to develop a linear discriminant model to distinguish each of the iris species from each other.
+
+
+
+T
+
+
+
+
 ### 2. Statistics Used
 
 
@@ -22,5 +44,5 @@ Sir Ronald Aylmer Fisher (1890-1962) was a British statistican and geneticist.
 
 
 ### 4. References
-
+https://en.wikipedia.org/wiki/Ronald_Fisher
 
