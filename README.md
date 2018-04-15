@@ -31,7 +31,7 @@ Fifty samples of each of the three species were measured.  Each of the 150 sampl
 
 Fisher was able to develop a linear discriminant model to distinguish each of the iris species from each other.
 
-
+![Picture of Iris Data Set Scatterplot}(scatterplot.jpg)
 
 
 
