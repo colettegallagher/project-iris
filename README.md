@@ -34,10 +34,9 @@ Fisher was able to develop a linear discriminant model to distinguish each of th
 ![Principle Component Analysis of Iris data set](scatterplot.jpg)
 
 
-
-
 ### 2. Statistics Used
-
+Min  Max   Mean    SD   Class Correlation
+Class Distribution: 33.3% for each of 3 classes.
 
 ### 3. Conclusions
 
@@ -47,4 +46,5 @@ https://en.wikipedia.org/wiki/Ronald_Fisher
 http://slideplayer.com/slide/4414578/
 http://web.as.uky.edu/statistics/users/pbreheny/764-f11/notes/9-20.pdf
 http://scikit-learn.org/stable/_images/sphx_glr_plot_pca_vs_lda_001.png
+http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
 
