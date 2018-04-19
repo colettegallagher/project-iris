@@ -50,7 +50,7 @@ The following statisical methods were used to analysis each category of the Iris
 2. Maximum Value (https://github.com/colettegallagher/project-iris/blob/master/maximum.py)
 3. Median Value (https://github.com/colettegallagher/project-iris/blob/master/median.py)
 4. Mean (Average) Value (https://github.com/colettegallagher/project-iris/blob/master/mean.py)
-5. Standard Deviation Value ()
+5. Standard Deviation Value (https://github.com/colettegallagher/project-iris/blob/master/standarddeviation.py)
 
 Histograms were used to illustrate each category and are shown below:
 
