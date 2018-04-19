@@ -54,7 +54,7 @@ Take the square root of that and we are done!
 
 Class Correlation (https://stats.stackexchange.com/questions/57776/what-is-class-correlation)
 
-![Sepal length histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20length.jpg)
+![Sepal Length histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20length.jpg)
 ![Sepal Width Histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20Width.jpeg)
 
 
