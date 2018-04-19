@@ -46,7 +46,8 @@ Take the square root of that and we are done!
 
 Class Correlation (https://stats.stackexchange.com/questions/57776/what-is-class-correlation)
 
-![Sepal lenth histogram](Sepal Length.png)
+![Sepal length histogram](Sepal length.png)
+
 
 
 ### 3. Conclusions
