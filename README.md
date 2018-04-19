@@ -56,4 +56,4 @@ http://web.as.uky.edu/statistics/users/pbreheny/764-f11/notes/9-20.pdf
 http://scikit-learn.org/stable/_images/sphx_glr_plot_pca_vs_lda_001.png
 http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
 http://archive.ics.uci.edu/ml/machine-learning-databases/iris/
-
+http://www.learningaboutelectronics.com/Articles/How-to-compute-the-standard-deviation-in-Python-using-numpy.php
