@@ -1,6 +1,6 @@
 # Colette Gallagher, 19th April 2018
 # Iris Project
-# To find the Maximum Value of each column of the Iris Data Set
+# To find the Maximum Value of each column of the Iris Data Set (Values in centimetres)
 
 # Run ipython program in python
 
@@ -30,13 +30,13 @@ maxfourthcol = numpy.max(data[:,3])
 
 # Print answers
 
-print('The maximum value of the Sepal Length is', maxfirstcol)
-print('The maximum value of the Sepal Width is', maxsecondcol)
-print('The maximum value of the Petal Length is', maxthirdcol)
-print('The maximum value of the Petal Width is', maxfourthcol)
+print('The maximum value of the Sepal Length is', maxfirstcol,'cm')
+print('The maximum value of the Sepal Width is', maxsecondcol,'cm')
+print('The maximum value of the Petal Length is', maxthirdcol,'cm')
+print('The maximum value of the Petal Width is', maxfourthcol,'cm')
 
 # Answers - The Maximum Value of the Columns in the Iris Dataset
-# The maximum value of the Sepal Length is 7.9
-# The maximum value of the Sepal Width is 4.4
-# The maximum value of the Petal Length is 6.9
-# The maximum value of the Petal Width is 2.5
+# The maximum value of the Sepal Length is 7.9 cm
+# The maximum value of the Sepal Width is 4.4 cm
+# The maximum value of the Petal Length is 6.9 cm
+# The maximum value of the Petal Width is 2.5 cm
