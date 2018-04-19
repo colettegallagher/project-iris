@@ -48,8 +48,8 @@ IPython is the programme used in Visual Studio Code.  NumPy is the library used 
 The following statisical methods were used to analysis each category of the Iris data set:
 1. Minimum Value (https://github.com/colettegallagher/project-iris/blob/master/minimum.py)
 2. Maximum Value (https://github.com/colettegallagher/project-iris/blob/master/maximum.py)
-3. Median Value ()
-4. Mean (Average) Value 
+3. Median Value (https://github.com/colettegallagher/project-iris/blob/master/median.py)
+4. Mean (Average) Value ()
 5. Standard Deviation Value 
 
 Histograms were used to illustrate each category and are shown below:
