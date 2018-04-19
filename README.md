@@ -56,7 +56,7 @@ Class Correlation (https://stats.stackexchange.com/questions/57776/what-is-class
 
 ![Sepal Length histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20length.jpg)
 ![Sepal Width Histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20Width.jpeg)
-![Petal Length Histogram](Petal Length.jpeg)
+![Petal Length Histogram](https://github.com/colettegallagher/project-iris/blob/master/Petal%20Length.jpeg)
 ![Petal Width Histogram}()
 
 
