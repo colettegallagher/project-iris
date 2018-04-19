@@ -6,9 +6,10 @@ This project analyses Fisher's Iris Data Set using different statistical methods
 
 ## Contents
 1. History of Fisher's Iris Flower Data Set
-2. Statistics Used
-3. Conclusions
-4. References
+2. How to Run the required Codes in this Repository
+3. Statistics Used
+4. Conclusions
+5. References
 
 ### 1. History
 Sir Ronald Aylmer Fisher (1890-1962) was a British statistican and geneticist.
@@ -33,8 +34,15 @@ Fisher was able to develop a linear discriminant model to distinguish each of th
 
 ![Principle Component Analysis of Iris data set](scatterplot.jpg)
 
+### 2. How to Run the required Codes in this Repository
+The codes in this repository were created in visual studio code using ipython
 
-### 2. Statistics Used
+Visual Studio Code can be downloaded by using the below link
+![Link to Visual Studio Code](https://code.visualstudio.com/download)
+
+IPython is the programme used in Visual Studio Code.  NumPy is the library used by IPython.
+
+### 3. Statistics Used
 Min  Max   Mean    SD   Class Correlation
 Class Distribution: 33.3% for each of 3 classes.
 
@@ -52,10 +60,10 @@ Class Correlation (https://stats.stackexchange.com/questions/57776/what-is-class
 
 
 
-### 3. Conclusions
+### 4. Conclusions
 
 
-### 4. References
+### 5. References
 https://en.wikipedia.org/wiki/Ronald_Fisher
 http://slideplayer.com/slide/4414578/
 http://web.as.uky.edu/statistics/users/pbreheny/764-f11/notes/9-20.pdf
