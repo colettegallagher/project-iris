@@ -58,4 +58,6 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
 http://archive.ics.uci.edu/ml/machine-learning-databases/iris/
 http://www.learningaboutelectronics.com/Articles/How-to-compute-the-standard-deviation-in-Python-using-numpy.php
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.corrcoef.html
+https://www.kaggle.com/farheen28/iris-dataset-analysis-using-knn
+
 
