@@ -1,6 +1,6 @@
 # Colette Gallagher, 19th April 2018
 # Iris Project
-# To find the mean of each column of the Iris Data Set
+# To find the mean of each column of the Iris Data Set (values are measured in centimetres)
 
 # Run ipython program in python
 
@@ -36,7 +36,7 @@ print('The mean of the Petal Length is' meanthirdcol)
 print('The mean of the Petal Width is', meanfourthcol)
 
 # Answers - The Mean of the Columns in the Iris Dataset
-# The mean of the Sepal Length is 5.84
-# The mean of the Sepal Width is 3.054
-# The mean of the Petal Length is 3.76
-# The mean of the Petal Width is 1.20
+# The mean of the Sepal Length is 5.84 cm
+# The mean of the Sepal Width is 3.054 cm
+# The mean of the Petal Length is 3.76 cm
+# The mean of the Petal Width is 1.20 cm
