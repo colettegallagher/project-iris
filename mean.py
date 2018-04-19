@@ -30,10 +30,10 @@ meanfourthcol=numpy.mean(data[:,3])
 
 # Print answers
 
-print('The mean of the Sepal Length is', meanfirstcol)
-print('The mean of the Sepal Width is', meansecondcol)
-print('The mean of the Petal Length is' meanthirdcol)
-print('The mean of the Petal Width is', meanfourthcol)
+print('The mean of the Sepal Length is', meanfirstcol,'cm')
+print('The mean of the Sepal Width is', meansecondcol,'cm')
+print('The mean of the Petal Length is' meanthirdcol,'cm')
+print('The mean of the Petal Width is', meanfourthcol,'cm')
 
 # Answers - The Mean of the Columns in the Iris Dataset
 # The mean of the Sepal Length is 5.84 cm
