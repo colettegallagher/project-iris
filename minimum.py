@@ -1,6 +1,6 @@
 # Colette Gallagher, 19th April 2018
 # Iris Project
-# To find the Minimum Value of each column of the Iris Data Set
+# To find the Minimum Value of each column of the Iris Data Set (values measured in centimetres)
 
 # Run ipython program in python
 
@@ -30,13 +30,13 @@ minfourthcol=numpy.min(data[:,3])
 
 # Print answers
 
-print('The minimum value of the Sepal Length is', minfirstcol)
-print('The minimum value of the Sepal Width is', minsecondcol)
-print('The minimum value of the Petal Length is' minthirdcol)
-print('The minimum value of the Petal Width is', minfourthcol)
+print('The minimum value of the Sepal Length is', minfirstcol,'cm')
+print('The minimum value of the Sepal Width is', minsecondcol,'cm')
+print('The minimum value of the Petal Length is' minthirdcol,'cm')
+print('The minimum value of the Petal Width is', minfourthcol,'cm')
 
 # Answers - The Minimum Value of the Columns in the Iris Dataset
-# The minimum value of the Sepal Length is 4.3
-# The minimum value of the Sepal Width is 2.0
-# The minimum value of the Petal Length is 1.0
-# The minimum value of the Petal Width is 0.1
+# The minimum value of the Sepal Length is 4.3 cm
+# The minimum value of the Sepal Width is 2.0 cm
+# The minimum value of the Petal Length is 1.0 cm
+# The minimum value of the Petal Width is 0.1 cm
