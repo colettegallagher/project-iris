@@ -12,6 +12,7 @@ This project analyses Fisher's Iris Data Set using different statistical methods
 5. References
 
 ### 1. History
+
 Sir Ronald Aylmer Fisher (1890-1962) was a British statistican and geneticist.
 
 ![A picture of Ronald Fisher](fisher.jpg)
@@ -37,6 +38,7 @@ Fisher was able to develop a linear discriminant model to distinguish each of th
 ![Principle Component Analysis of Iris data set](scatterplot.jpg)
 
 ### 2. How to Run the Codes in this Repository
+
 The codes in this repository were created in Visual Studio Code using IPython
 
 #### Visual Studio Code
@@ -82,6 +84,7 @@ Histograms were used to illustrate each category and are shown below:
 The Iris Dataset is used for data analysis and statistics.  It is a small dataset which contains 150 observations but it can be analysed using a number of statistical methods (including mean, maximum, minimum, median, standard deviation) and graphic analysis (including histograms and scatterplots)  It is a good example of real data being used for statistical learning.
 
 ### 5. References
+
 https://en.wikipedia.org/wiki/Ronald_Fisher
 http://slideplayer.com/slide/4414578/
 http://web.as.uky.edu/statistics/users/pbreheny/764-f11/notes/9-20.pdf
