@@ -73,7 +73,7 @@ The following statisical methods were used to analysis each category of the Iris
 4. Mean (Average) Value (https://github.com/colettegallagher/project-iris/blob/master/mean.py)
 5. Standard Deviation Value (https://github.com/colettegallagher/project-iris/blob/master/standarddeviation.py)
 
-Histograms were used to illustrate each category and are shown below:
+Histograms were used to illustrate each category.  The code for each can be found at the following link: ![Histogram Code](https://github.com/colettegallagher/project-iris).  The histograms produced by this code are shown below:
 
 ![Sepal Length histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20length.jpg)
 ![Sepal Width Histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20Width.jpeg)
