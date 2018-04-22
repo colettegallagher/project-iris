@@ -74,7 +74,7 @@ The following statisical methods were used to analysis each category of the Iris
 5. Standard Deviation Value (https://github.com/colettegallagher/project-iris/blob/master/standarddeviation.py)
 
 Histograms were used to illustrate each category.  The code for each can be found at the following link: 
-![Histogram Code](https://github.com/colettegallagher/project-iris/blob/master/histogram.py)
+![Histogram](https://github.com/colettegallagher/project-iris/blob/master/histogram.py)
 
 The histograms produced by this code are shown below:
 
