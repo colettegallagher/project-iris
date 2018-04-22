@@ -24,7 +24,7 @@ Fisher introduced the Iris Flower Data Set in his 1936 paper.  The data set cons
 
 ![Photo of the Iris in the data set](Iris.jpg)
 
-Fifty samples of each of the three species were measured.  Each of the 150 samples were measured, in centimetres, and recorded in five categories
+Fifty samples of each of the three species were analysed.  Each of the 150 samples were measured, in centimetres, and recorded in five categories
 
 #### Categories
 1. Length of the Sepals
