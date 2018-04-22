@@ -24,7 +24,9 @@ Fisher introduced the Iris Flower Data Set in his 1936 paper.  The data set cons
 
 ![Photo of the Iris in the data set](Iris.jpg)
 
-Fifty samples of each of the three species were analysed. Results can be found at the following link: () Each of the 150 samples were measured, in centimetres, and recorded in five categories
+Fifty samples of each of the three species were analysed. Fisher's results can be found at the following link: (https://github.com/colettegallagher/project-iris/blob/master/irisdata) 
+
+Each of the 150 samples were measured, in centimetres, and recorded in five categories
 
 #### Categories
 1. Length of the Sepals
@@ -63,6 +65,9 @@ When Anaconda is installed it also installs IPython.  Go to the Command Prompt o
 
 #### NumPy
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
+
+#### Running the Codes
+Copy the code from the repository by using *CTRL & C* or right clicking and copying the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button.  Paste the code into Visual Studio Code.  Name the file with the ending *.py*. On the right-hand side of the terminal type in *python* and the name of the file.  Press enter.  
 
 
 ### 3. Statistics Used
