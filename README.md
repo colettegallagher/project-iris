@@ -33,7 +33,7 @@ Fifty samples of each of the three species were analysed. Results can be found a
 4. Width of the Petals
 5. Class
 
-These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table: ()
+These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table: (https://github.com/colettegallagher/project-iris/blob/master/table.py)
 
 Fisher was able to develop a linear discriminant model to distinguish each of the iris species from each other.
 
