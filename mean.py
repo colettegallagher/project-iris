@@ -1,4 +1,4 @@
-# Colette Gallagher, 19th April 2018
+# Colette Gallagher, 2018-04-19
 # Iris Project
 # To find the mean of each column of the Iris Data Set (values are measured in centimetres)
 
@@ -21,7 +21,7 @@ secondcol = data[:,1]
 thirdcol = data[:,2]
 fourthcol = data[:,3]
 
-# Calculate the mean of the four columns
+# Calculate the mean of the four columns using 'mean' from the NumPy library
 
 meanfirstcol=numpy.mean(data[:,0])
 meansecondcol=numpy.mean(data[:,1])
