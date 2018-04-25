@@ -47,14 +47,14 @@ The codes in this repository were created in Visual Studio Code using IPython
 
 #### Visual Studio Code
 Visual Studio code is software written by Microsoft.  
-It can be downloaded by using the following link: (https://code.visualstudio.com/download) 
+It can be downloaded by using the following link: [Visual Studio Code](https://code.visualstudio.com/download) 
 When you get to this page click on the *Download* button in the top right-hand corner.
 This is a large file, approximately 45,686KB, so ensure there is a high-speed internet connection before downloading.
 The Visual Studio Code file will be in the downloads folder.  Click on the file and run program to install.
 
 #### Anaconda
 Anaconda is a piece of software constructed from Python which contains some extra packages.
-It can be downloaded by using the following link: (https://www.anaconda.org/download/)
+It can be downloaded by using the following link: [Anaconda](https://www.anaconda.org/download/)
 When you get to this page, click on the Python 3.6 Version *Download* button in the top right-hand corner.
 This is a very large file, approximately 527,178KB, so ensure there is a high-speed internet connection before downloading.
 The Anaconda file will be in the downloads folder.  Click on the file and run program to install.
