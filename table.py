@@ -1,5 +1,5 @@
 # Colette Gallagher, 2018-03-19
-# Exercise 5 Iris Data Set
+# To illustrate Fisher's Iris Data Set using a Table
 # https://docs.python.org/2/library/string.html
 
 print ("petal length ", "petal width ", "sepal length ", "sepal width")
