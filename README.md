@@ -67,7 +67,7 @@ When Anaconda is installed it also installs IPython.  Go to the Command Prompt o
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
 
 #### Running the Codes
-Copy the code from the repository by using *CTRL & C* or right clicking using the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button found on the top left of the screen .  Paste the code into Visual Studio Code.  Name the file with the ending *.py*. On the right-hand side of the terminal type in *python* and the name of the file.  Press enter.  
+Copy the code from the repository by using *CTRL & C* or right clicking using the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code](https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG)found on the top left of the screen .  Paste the code into Visual Studio Code.  Name the file with the ending *.py*. On the right-hand side of the terminal type in *python* and the name of the file.  Press enter.  
 
 
 ### 3. Statistics Used
