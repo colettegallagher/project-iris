@@ -67,8 +67,11 @@ When Anaconda is installed it also installs IPython.  Go to the Command Prompt o
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
 
 #### Running the Codes
-The Iris data set can be copied to visual studio code from the following website
-Copy the code from the repository by using *CTRL & C* or right clicking using the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code](https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG) found on the top left of the screen .  Name the file with the ending **.py**, for example *mean.py*.  Paste the code on to the left-hand screen in Visual Studio Code.  On the right-hand side of the terminal type in **python** and the name of the file, for example *python mean.py*. Press enter to run code.
+The results of Fisher's Iris data set, in text format, can be found at ()  This can be copied by using **CTRL & C** or right clicking using the mouse and copying.  
+
+Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code](https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG) which is found on the top left of the screen.  The file should be named with the ending **.csv**.  .CSV is used in Visual Studio Code for a text file, for example *iris.csv*. The data set can now be pasted into the terminal on the left in Visual Studio Code.  Use **CTRL & S** to save file.
+
+Copy the required statistical codes from the repository by using **CTRL & C** or right clicking using the mouse and copying.  Name the file with the ending **.py**, for example *mean.py*.  Paste the code on to the right-hand screen in Visual Studio Code and press enter to run.
 
 
 ### 3. Statistics Used
