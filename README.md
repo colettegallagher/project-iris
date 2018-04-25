@@ -71,7 +71,7 @@ The results of Fisher's Iris data set, in text format, can be found at (https://
 
 Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code](https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG) which is found on the top left of the screen.  The file should be named with the ending **.csv**.  .CSV is used in Visual Studio Code for a text file, for example *iris.csv*. The data set can now be pasted into the terminal on the left in Visual Studio Code.  Use **CTRL & S** to save file.
 
-Copy the required statistical codes from the repository by using **CTRL & C** or right clicking using the mouse and copying.  Name the file with the ending **.py**, for example *mean.py*.  Paste the code on to the right-hand screen in Visual Studio Code and press enter to run.
+Copy the required statistical codes from the repository by using **CTRL & C** or right clicking using the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code (https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG)  which is found on the top left of the screen.  Name the file with the ending **.py**, for example *mean.py*.  Paste the code on to the right-hand screen in Visual Studio Code and press enter to run.
 
 
 ### 3. Statistics Used
