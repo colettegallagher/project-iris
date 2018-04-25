@@ -45,4 +45,6 @@ pl.show()
 pl.hist(fourthcol)
 pl.show()
 
-# Histograms are then saved as jpeg files and imported into Github
+# Histograms are then saved as jpeg files on the PC and imported into Github using the UPLOAD FILES button 
+# which is found on the top right of the screen above the contents list of the repository
+
