@@ -1,4 +1,4 @@
-# Colette Gallagher, 19th April 2018
+# Colette Gallagher, 2018=04-19
 # Iris Project
 # To find the Median of each column of the Iris Data Set
 
@@ -21,7 +21,7 @@ secondcol = data[:,1]
 thirdcol = data[:,2]
 fourthcol = data[:,3]
 
-# Calculate the Standard Deviation Value (SD)of the four columns (measured in centimeters)
+# Calculate the Standard Deviation Value (SD)of the four columns (measured in centimeters) using 'median' from the NumPy library
 
 medianfirstcol = numpy.median(data[:,0])
 mediansecondcol = numpy.median(data[:,1])
@@ -35,7 +35,8 @@ print('The Median value of the Sepal Width is', mediansecondcol,'cm')
 print('The Median value of the Petal Length is', medianthirdcol,'cm')
 print('The Median value of the Petal Width is', medianfourthcol,'cm')
 
-# Answers - The Median Values of the four columns of the Iris Data Set
-The Median value of the Sepal Length is 5.8 cmThe Median value of the Sepal Width is 3.0 cm
-The Median value of the Petal Length is 4.35 cm
-The Median value of the Petal Width is 1.3 cm
+# Answers - The Median Values of the four columns of the Iris Data Set:
+# The Median value of the Sepal Length is 5.8 cm
+# The Median value of the Sepal Width is 3.0 cm
+# The Median value of the Petal Length is 4.35 cm
+# The Median value of the Petal Width is 1.3 cm
