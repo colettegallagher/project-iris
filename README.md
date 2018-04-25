@@ -67,12 +67,12 @@ When Anaconda is installed it also installs IPython.  Go to the Command Prompt o
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
 
 #### Running the Codes
-Copy the code from the repository by using *CTRL & C* or right clicking using the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code](https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG)found on the top left of the screen .  Paste the code into Visual Studio Code.  Name the file with the ending *.py*. On the right-hand side of the terminal type in *python* and the name of the file.  Press enter.  
+Copy the code from the repository by using *CTRL & C* or right clicking using the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code](https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG) found on the top left of the screen .  Name the file with the ending **.py**, for example *mean.py*.  Paste the code on to the left-hand screen in Visual Studio Code.  On the right-hand side of the terminal type in **python** and the name of the file, for example *python mean.py*. Press enter to run code.
 
 
 ### 3. Statistics Used
 
-The following statisical methods were used to analysis each category of the Iris data set.  To access the code click on the link following the listed value.  Answers for each value are listed at the end of the code.
+The following statisical methods were used to analyse each category of the Iris data set.  To access the code click on the link following the required statistical method.  Answers for each value are listed at the end of the code.
 
 1. Minimum Value (https://github.com/colettegallagher/project-iris/blob/master/minimum.py)
 2. Maximum Value (https://github.com/colettegallagher/project-iris/blob/master/maximum.py)
