@@ -1,4 +1,4 @@
-# Colette Gallagher, 19th April 2018
+# Colette Gallagher, 2018-04-19
 # Iris Project
 # To find the Standard Deviation of each column of the Iris Data Set
 
@@ -21,7 +21,7 @@ secondcol = data[:,1]
 thirdcol = data[:,2]
 fourthcol = data[:,3]
 
-# Calculate the Standard Deviation Value (SD) of the four columns (measured in centimeters)
+# Calculate the Standard Deviation Value (SD) of the four columns (measured in centimeters) using 'std' from the NumPy library
 
 stdfirstcol = numpy.std(data[:,0])
 stdsecondcol = numpy.std(data[:,1])
