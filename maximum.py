@@ -1,4 +1,4 @@
-# Colette Gallagher, 19th April 2018
+# Colette Gallagher, 2018-04-19
 # Iris Project
 # To find the Maximum Value of each column of the Iris Data Set (Values in centimetres)
 
@@ -21,7 +21,7 @@ secondcol = data[:,1]
 thirdcol = data[:,2]
 fourthcol = data[:,3]
 
-# Calculate the Maximum Value of the four columns
+# Calculate the Maximum Value of the four columns using 'max' from the NumPy library
 
 maxfirstcol = numpy.max(data[:,0])
 maxsecondcol = numpy.max(data[:,1])
