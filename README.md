@@ -35,7 +35,7 @@ Each of the 150 samples were measured, in centimetres, and recorded in five cate
 4. Width of the Petals
 5. Class
 
-These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table: (https://github.com/colettegallagher/project-iris/blob/master/table.py)  For instructions on how to run this code please see sectiond 2 below.
+These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table: (https://github.com/colettegallagher/project-iris/blob/master/table.py)  For instructions on how to run this code please see Section 2 below.
 
 Fisher was able to develop a linear discriminant model to distinguish each of the iris species from each other.
 
@@ -54,9 +54,9 @@ The Visual Studio Code file will be in the downloads folder.  Click on the file 
 
 #### Anaconda
 Anaconda is a piece of software constructed from Python which contains some extra packages.
-It can be downloaded by using the following link: (https://www.anaconda.com/download/)
+It can be downloaded by using the following link: (https://www.anaconda.org/download/)
 When you get to this page, click on the Python 3.6 Version *Download* button in the top right-hand corner.
-This is a very large file, approximately 527,17KB, so ensure there is a high-speed internet connection before downloading.
+This is a very large file, approximately 527,178KB, so ensure there is a high-speed internet connection before downloading.
 The Anaconda file will be in the downloads folder.  Click on the file and run program to install.
 
 #### IPython
@@ -67,7 +67,7 @@ When Anaconda is installed it also installs IPython.  Go to the Command Prompt o
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
 
 #### Running the Codes
-Copy the code from the repository by using *CTRL & C* or right clicking and copying the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button.  Paste the code into Visual Studio Code.  Name the file with the ending *.py*. On the right-hand side of the terminal type in *python* and the name of the file.  Press enter.  
+Copy the code from the repository by using *CTRL & C* or right clicking using the mouse and copying.  Open a file in Visual Studio Code by clicking the new file button found on the top left of the screen .  Paste the code into Visual Studio Code.  Name the file with the ending *.py*. On the right-hand side of the terminal type in *python* and the name of the file.  Press enter.  
 
 
 ### 3. Statistics Used
