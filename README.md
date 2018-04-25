@@ -35,7 +35,7 @@ Each of the 150 samples were measured, in centimetres, and recorded in five cate
 4. Width of the Petals
 5. Class
 
-These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table: (https://github.com/colettegallagher/project-iris/blob/master/table.py)
+These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table: (https://github.com/colettegallagher/project-iris/blob/master/table.py)  For instructions on how to run this code please see sectiond 2 below.
 
 Fisher was able to develop a linear discriminant model to distinguish each of the iris species from each other.
 
