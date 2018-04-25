@@ -1,4 +1,4 @@
-# Colette Gallagher, 19th April 2018
+# Colette Gallagher, 2018-04-19
 # project - iris
 # Data set analysis using histogram
 
@@ -21,26 +21,28 @@ secondcol = data[:,1]
 thirdcol = data[:,2]
 fourthcol = data[:,3]
 
-# Imports the matplotlib library to create a histogram
+# Imports the matplotlib library to create a histogram and call it pl
 
 import matplotlib.pyplot as pl
 
-# Prints the data for Sepal Length as a list and then as a histogram
+# Prints the data for Sepal Length as a histogram
 
 pl.hist(firstcol)
 pl.show()
 
-# Prints the data for Sepal Width as a list and then as a histogram
+# Prints the data for Sepal Width as a histogram
 
 pl.hist(secondcol)
 pl.show()
 
-# Prints the data for Petal Length as a list and then as a histogram
+# Prints the data for Petal Length as a histogram
 
 pl.hist(thirdcol)
 pl.show()
 
-# Prints the data for Petal Width as a list and then as a histogram
+# Prints the data for Petal Width as a histogram
 
 pl.hist(fourthcol)
 pl.show()
+
+# Histograms are then saved as jpeg files and imported into Github
