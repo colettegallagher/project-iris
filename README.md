@@ -60,14 +60,19 @@ The Visual Studio Code file will be in the downloads folder.  Click on the file 
 #### Anaconda
 [Anaconda](https://www.anaconda.com/download/) is a piece of software constructed from Python which contains some extra packages.
 
-Click on the Python 3.6 Version *Download* button in the top right-hand corner ![Anaconda Download](https://github.com/colettegallagher/project-iris/blob/master/Anaconda%20Download.JPG)
+Click on the Python 3.6 Version *Download* button in the top right-hand corner 
+![Anaconda Download](https://github.com/colettegallagher/project-iris/blob/master/Anaconda%20Download.JPG)
 
 This is a very large file, approximately 527,178KB, so ensure there is a high-speed internet connection before downloading.
 The Anaconda file will be in the downloads folder.  Click on the file and run program to install.
 
 #### IPython
 IPython is the interactive programme used in Visual Studio Code.  IPython is excellent for data analytics work.
-When Anaconda is installed it also installs IPython.  Go to the Command Prompt on the PC.  Type in *ipython*.  This runs the python interpreter.  This installs the ipython terminal in Visual Studio Code
+When Anaconda is installed it also installs IPython.  Go to the Command Prompt on the PC.  Type in *ipython*.  
+
+![command prompt](https://github.com/colettegallagher/project-iris/blob/master/command%20prompt.JPG)
+
+This runs the python interpreter.  This installs the ipython terminal in Visual Studio Code
 
 #### NumPy
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
