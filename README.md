@@ -48,8 +48,12 @@ The codes in this repository were created in Visual Studio Code using IPython
 
 #### Visual Studio Code
 Visual Studio code is software written by Microsoft.  
-To download [Visual Studio Code](https://code.visualstudio.com/download) click on the ![Download](https://github.com/colettegallagher/project-iris/blob/master/Download.JPG) button.  
+When downloading [Visual Studio Code](https://code.visualstudio.com/download) chose one of three versions - windowns, linux or ----
+![Visual Studio Code Versions](https://github.com/colettegallagher/project-iris/blob/master/visual%20studio%20code.JPG)
+
+Then click on the ![Download](https://github.com/colettegallagher/project-iris/blob/master/Download.JPG) button.  
 This button is located in the top right-hand corner of the screen.
+
 This is a large file, approximately 45,686KB, so ensure there is a high-speed internet connection before downloading.
 The Visual Studio Code file will be in the downloads folder.  Click on the file and run program to install.
 
