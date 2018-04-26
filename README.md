@@ -76,6 +76,7 @@ This runs the python interpreter.  This installs the ipython terminal in Visual 
 
 #### NumPy
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
+![import NumPy]()
 
 #### Running the Codes
 The results of Fisher's Iris data set, in text format, can be found at [iris data set results](https://github.com/colettegallagher/project-iris/blob/master/irisdata).  This can be copied by using **CTRL & C** or right clicking using the mouse and copying.  
@@ -95,8 +96,7 @@ The following statisical methods were used to analyse each category of the Iris 
 4. [Mean (Average) Value](https://github.com/colettegallagher/project-iris/blob/master/mean.py)
 5. [Standard Deviation Value](https://github.com/colettegallagher/project-iris/blob/master/standarddeviation.py)
 
-Histograms were used to illustrate each category.  The code for each can be found at the following link: 
-(https://github.com/colettegallagher/project-iris/blob/master/histogram.py)
+Histograms were used to illustrate each category - ![Histogram Code](https://github.com/colettegallagher/project-iris/blob/master/histogram.py)
 
 The histograms produced by this code are shown below:
 
