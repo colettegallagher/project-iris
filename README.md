@@ -24,7 +24,7 @@ Fisher introduced the Iris Flower Data Set in his 1936 paper.  The data set cons
 
 ![Photo of the Iris in the data set](Iris.jpg)
 
-Fifty samples of each of the three species were analysed. Fisher's results can be found at the following link: [iris dataset results](https://github.com/colettegallagher/project-iris/blob/master/irisdata).
+Fifty samples of each of the three species were analysed. Fisher's results can be found at [iris dataset results](https://github.com/colettegallagher/project-iris/blob/master/irisdata).
 
 Each of the 150 samples were measured, in centimetres, and recorded in five categories
 
@@ -35,7 +35,8 @@ Each of the 150 samples were measured, in centimetres, and recorded in five cate
 4. Width of the Petals
 5. Class
 
-These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table:  [table.py](https://github.com/colettegallagher/project-iris/blob/master/table.py).  For instructions on how to run this code please see Section 2 below.
+These results can be illustrated in [tabular format](https://github.com/colettegallagher/project-iris/blob/master/table.py).  
+For instructions on how to run this code please see Section 2 below.
 
 Fisher was able to develop a linear discriminant model to distinguish each of the iris species from each other.
 
@@ -47,8 +48,7 @@ The codes in this repository were created in Visual Studio Code using IPython
 
 #### Visual Studio Code
 Visual Studio code is software written by Microsoft.  
-It can be downloaded by using the following link: [Visual Studio Code](https://code.visualstudio.com/download).
-When you get to this page click on the *Download* button in the top right-hand corner.
+To download [Visual Studio Code](https://code.visualstudio.com/download) click on the *Download* button in the top right-hand corner of the screen.
 This is a large file, approximately 45,686KB, so ensure there is a high-speed internet connection before downloading.
 The Visual Studio Code file will be in the downloads folder.  Click on the file and run program to install.
 
