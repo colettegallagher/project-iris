@@ -89,7 +89,8 @@ Copy the required statistical codes from the repository by using **CTRL & C** or
 
 ### 3. Statistics Used
 
-The following statisical methods were used to analyse each category of the Iris data set.  To access the code click on the link following the required statistical method.  Answers for each value are listed at the end of the code.
+The following statisical methods were used to analyse each category of the Iris data set.  
+Answers for each value are listed as text at the end of the codes.
 
 1. [Minimum Value](https://github.com/colettegallagher/project-iris/blob/master/minimum.py)
 2. [Maximum Value](https://github.com/colettegallagher/project-iris/blob/master/maximum.py)
