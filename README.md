@@ -76,7 +76,8 @@ This runs the python interpreter.  This installs the ipython terminal in Visual 
 
 #### NumPy
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
-![import NumPy]()
+
+![import NumPy](https://github.com/colettegallagher/project-iris/blob/master/NumPy.JPG)
 
 #### Running the Codes
 The results of Fisher's Iris data set, in text format, can be found at [iris data set results](https://github.com/colettegallagher/project-iris/blob/master/irisdata).  This can be copied by using **CTRL & C** or right clicking using the mouse and copying.  
