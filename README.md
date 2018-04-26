@@ -59,7 +59,9 @@ The Visual Studio Code file will be in the downloads folder.  Click on the file 
 
 #### Anaconda
 [Anaconda](https://www.anaconda.com/download/) is a piece of software constructed from Python which contains some extra packages.
-Cllick on the Python 3.6 Version *Download* button in the top right-hand corner ![Anaconda Download]()
+
+Click on the Python 3.6 Version *Download* button in the top right-hand corner ![Anaconda Download](https://github.com/colettegallagher/project-iris/blob/master/Anaconda%20Download.JPG)
+
 This is a very large file, approximately 527,178KB, so ensure there is a high-speed internet connection before downloading.
 The Anaconda file will be in the downloads folder.  Click on the file and run program to install.
 
