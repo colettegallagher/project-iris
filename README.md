@@ -35,7 +35,7 @@ Each of the 150 samples were measured, in centimetres, and recorded in five cate
 4. Width of the Petals
 5. Class
 
-These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table: ![table.py](https://github.com/colettegallagher/project-iris/blob/master/table.py)  For instructions on how to run this code please see Section 2 below.
+These results can be illustrated in tabular format.  The following link is for code to illustrate the results in a table:  [table.py](https://github.com/colettegallagher/project-iris/blob/master/table.py)  For instructions on how to run this code please see Section 2 below.
 
 Fisher was able to develop a linear discriminant model to distinguish each of the iris species from each other.
 
@@ -67,7 +67,7 @@ When Anaconda is installed it also installs IPython.  Go to the Command Prompt o
 NumPy is a library in IPython. To use, open Visual Studio Code.  Type *ipython* in the right hand side terminal.  This opens ipython.  Then type *import numpy* this opens NumPy in IPython.
 
 #### Running the Codes
-The results of Fisher's Iris data set, in text format, can be found at (https://github.com/colettegallagher/project-iris/blob/master/irisdata).  This can be copied by using **CTRL & C** or right clicking using the mouse and copying.  
+The results of Fisher's Iris data set, in text format, can be found at [iris data set results](https://github.com/colettegallagher/project-iris/blob/master/irisdata).  This can be copied by using **CTRL & C** or right clicking using the mouse and copying.  
 
 Open a file in Visual Studio Code by clicking the new file button ![New File Icon Visual Studio Code](https://github.com/colettegallagher/project-iris/blob/master/new%20file.JPG) which is found on the top left of the screen.  The file should be named with the ending **.csv**.  .CSV is used in Visual Studio Code for a text file, for example *iris.csv*. The data set can now be pasted into the terminal on the left in Visual Studio Code.  Use **CTRL & S** to save file.
 
@@ -78,21 +78,21 @@ Copy the required statistical codes from the repository by using **CTRL & C** or
 
 The following statisical methods were used to analyse each category of the Iris data set.  To access the code click on the link following the required statistical method.  Answers for each value are listed at the end of the code.
 
-1. Minimum Value (https://github.com/colettegallagher/project-iris/blob/master/minimum.py)
-2. Maximum Value (https://github.com/colettegallagher/project-iris/blob/master/maximum.py)
-3. Median Value (https://github.com/colettegallagher/project-iris/blob/master/median.py)
-4. Mean (Average) Value (https://github.com/colettegallagher/project-iris/blob/master/mean.py)
-5. Standard Deviation Value (https://github.com/colettegallagher/project-iris/blob/master/standarddeviation.py)
+1. [Minimum Value](https://github.com/colettegallagher/project-iris/blob/master/minimum.py)
+2. [Maximum Value](https://github.com/colettegallagher/project-iris/blob/master/maximum.py)
+3. [Median Value](https://github.com/colettegallagher/project-iris/blob/master/median.py)
+4. [Mean (Average) Value](https://github.com/colettegallagher/project-iris/blob/master/mean.py)
+5. [Standard Deviation Value](https://github.com/colettegallagher/project-iris/blob/master/standarddeviation.py)
 
 Histograms were used to illustrate each category.  The code for each can be found at the following link: 
 (https://github.com/colettegallagher/project-iris/blob/master/histogram.py)
 
 The histograms produced by this code are shown below:
 
-![Sepal Length histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20length.jpg)
-![Sepal Width Histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20Width.jpeg)
-![Petal Length Histogram](https://github.com/colettegallagher/project-iris/blob/master/Petal%20Length.jpeg)
-![Petal Width Histogram](https://github.com/colettegallagher/project-iris/blob/master/Petal%20Width.jpeg)
+[Sepal Length histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20length.jpg)
+[Sepal Width Histogram](https://github.com/colettegallagher/project-iris/blob/master/Sepal%20Width.jpeg)
+[Petal Length Histogram](https://github.com/colettegallagher/project-iris/blob/master/Petal%20Length.jpeg)
+[Petal Width Histogram](https://github.com/colettegallagher/project-iris/blob/master/Petal%20Width.jpeg)
 
 ### 4. Conclusions
 
