@@ -51,16 +51,15 @@ Visual Studio code is software written by Microsoft.
 When downloading [Visual Studio Code](https://code.visualstudio.com/download) chose one of three versions - Windows, Linux or Mac
 ![Visual Studio Code Versions](https://github.com/colettegallagher/project-iris/blob/master/visual%20studio%20code.JPG)
 
-Then click on the    ![Download](https://github.com/colettegallagher/project-iris/blob/master/Download.JPG)     button.  
+Then click on the      ![Download](https://github.com/colettegallagher/project-iris/blob/master/Download.JPG)         button.  
 This button is located in the top right-hand corner of the screen.
 
 This is a large file, approximately 45,686KB, so ensure there is a high-speed internet connection before downloading.
 The Visual Studio Code file will be in the downloads folder.  Click on the file and run program to install.
 
 #### Anaconda
-Anaconda is a piece of software constructed from Python which contains some extra packages.
-It can be downloaded by using the following link: [Anaconda](https://www.anaconda.org/download/).
-When you get to this page, click on the Python 3.6 Version *Download* button in the top right-hand corner.
+[Anaconda](https://www.anaconda.org/download/) is a piece of software constructed from Python which contains some extra packages.
+Cllick on the Python 3.6 Version *Download* button in the top right-hand corner ![Anaconda Download]()
 This is a very large file, approximately 527,178KB, so ensure there is a high-speed internet connection before downloading.
 The Anaconda file will be in the downloads folder.  Click on the file and run program to install.
 
