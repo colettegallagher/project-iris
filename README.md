@@ -98,7 +98,7 @@ Answers for each value are listed as text at the end of the codes.
 4. [Mean (Average) Value](https://github.com/colettegallagher/project-iris/blob/master/mean.py)
 5. [Standard Deviation Value](https://github.com/colettegallagher/project-iris/blob/master/standarddeviation.py)
 
-Histograms were used to illustrate each category - ![Histogram Code](https://github.com/colettegallagher/project-iris/blob/master/histogram.py)
+Histograms were used to illustrate each category - [Histogram Code](https://github.com/colettegallagher/project-iris/blob/master/histogram.py)
 
 The histograms produced by this code are shown below:
 
